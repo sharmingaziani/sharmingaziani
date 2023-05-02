@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there :)
 
-<!--
-**sharmingaziani/sharmingaziani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sharmin Gaziani and I am a current Computer Science student @ University of Texas at Dallas.
 
-Here are some ideas to get you started:
+## Some of my technical skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming: JavaScript, Verilog, C/C++, Java, Assembly (MIPS), Python, Prolog, Scheme
+
+Framework/Tech: R, ReactJS, React Native, AngularJS, TypeScript, Linux/Unix
+
+Database: SQL, HTML, SCSS
+
+Feel free to contact me at sharmingaziani@outlook.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sharmin-gaziani-3038b9204/)
