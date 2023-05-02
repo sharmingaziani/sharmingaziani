@@ -10,4 +10,4 @@ Framework/Tech: R, ReactJS, React Native, AngularJS, TypeScript, Linux/Unix
 
 Database: SQL, HTML, SCSS
 
-Feel free to [email](sharmingaziani@outlook.com) me or connect with me on [LinkedIn](https://www.linkedin.com/in/sharmin-gaziani-3038b9204/)
+Feel free to contact me at sharmingaziani@outlook.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sharmin-gaziani-3038b9204/)
