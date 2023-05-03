@@ -1,12 +1,12 @@
 ### Hello there :)
 
-My name is Sharmin Gaziani and I am a current Computer Science student @ University of Texas at Dallas.
+My name is Sharmin Gaziani and I am a current Computer Science student @ The University of Texas at Dallas.
 
 ## Some of my technical skills
 
 **Programming:** JavaScript, Verilog, C/C++, Java, Assembly (MIPS), Python, Prolog, Scheme
 
-**Framework/Tech:** R, ReactJS, React Native, AngularJS, TypeScript, Linux/Unix
+**Framework/Tech:** R, ReactJS, React Native, AngularJS, TypeScript, Linux/Unix, JUnit
 
 **Database:** SQL, HTML, SCSS
 
