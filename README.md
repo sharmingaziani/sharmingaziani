@@ -6,7 +6,7 @@ My name is Sharmin Gaziani and I am a current Computer Science student @ The Uni
 
 **Programming:** JavaScript, Verilog, C/C++, Java, Assembly (MIPS), Python, Prolog, Scheme
 
-**Framework/Tech:** R, ReactJS, React Native, AngularJS, TypeScript, Linux/Unix, JUnit
+**Framework/Tech/OS:** R, ReactJS, React Native, AngularJS, TypeScript, Linux/Unix, JUnit
 
 **Database:** SQL, HTML, SCSS
 
