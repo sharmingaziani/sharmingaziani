@@ -1,6 +1,6 @@
-### Hello there :)
+### Hello there! 
 
-My name is Sharmin Gaziani and I am a current Computer Science student @ The University of Texas at Dallas.
+My name is Sharmin and I am a current Computer Science student @ The University of Texas at Dallas.
 
 My goal is to graduate in December 2023, and I am excited to embark on a career as a software engineer in the industry.
 
