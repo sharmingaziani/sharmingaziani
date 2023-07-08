@@ -6,10 +6,10 @@ My goal is to graduate in December 2023, and I am excited to embark on a career 
 
 ## Some of my technical skills
 
-**Programming:** Java, Python, C/C++, JavaScript, Verilog, Assembly (MIPS), Prolog, Scheme
+**Programming:** JavaScript, Verilog, C/C++, Java, Assembly, Python, Prolog, Scheme, SQL
 
-**Framework/Tech/OS:** R, ReactJS, React Native, AngularJS, TypeScript, Linux/Unix, JUnit
+**Framework/Libraries:** ReactJS, React Native, AngularJS, TypeScript, TensorFlow!
 
-**Database:** SQL, HTML, SCSS
+**Technologies:** HTML, SCSS, R, Linux/Unix, RESTful APIs
 
 Feel free to contact me at sharmingaziani@outlook.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sharmin-gaziani-3038b9204/)
