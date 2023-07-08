@@ -8,7 +8,7 @@ My goal is to graduate in December 2023, and I am excited to embark on a career 
 
 **Programming:** JavaScript, Verilog, C/C++, Java, Assembly, Python, Prolog, Scheme, SQL
 
-**Framework/Libraries:** ReactJS, React Native, AngularJS, TypeScript, TensorFlow!
+**Framework/Libraries:** ReactJS, React Native, AngularJS, TypeScript, TensorFlow
 
 **Technologies:** HTML, SCSS, R, Linux/Unix, RESTful APIs
 
