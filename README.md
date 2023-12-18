@@ -10,7 +10,7 @@ I'm a software engineer and a recent computer science graduate from The Universi
 
 **Technologies:** MySQL, HTML, CSS, R, Linux/Unix, REST APIs, Spring Boot
 
-Feel free to contact me at sharmingaziani@outlook.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sharmin-gaziani-3038b9204/) 
+Feel free to contact me at sharmingaziani@outlook.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sharmin-gaziani-3038b9204/).
 I'm always excited to discuss new opportunities, projects, or just chat about the latest tech trends!
 
 
